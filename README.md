@@ -3,9 +3,9 @@
 > Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI
 
 <p align="center">
-  <img src="assets/deezer.png" height="40"/>
+  <img src="assets/deezer.jpg" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/mistral.png" height="40"/>
+  <img src="assets/mistral.svg" height="40"/>
 </p>
 
 ---
