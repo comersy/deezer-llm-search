@@ -1,12 +1,18 @@
-# charts-chat
+# deezer-llm-search
 
-> Ask questions about current music charts in natural language — powered by Deezer API & Mistral AI.
+> Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Deezer_logo_2023.png/320px-Deezer_logo_2023.png" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mistral_AI_logo.svg/320px-Mistral_AI_logo.svg.png" height="40"/>
+</p>
 
 ---
 
 ## What is this?
 
-**charts-chat** is a conversational AI that lets you explore music charts the way you would talk to a friend who knows everything about music.
+This tool is a conversational AI that lets you explore music charts the way you would talk to a friend who knows everything about music.
 
 Instead of scrolling through a list of 100 songs, just ask:
 
@@ -14,7 +20,7 @@ Instead of scrolling through a list of 100 songs, just ask:
 - "Give me a song to dance to"
 - "I need something calm to focus, not too many lyrics"
 
-The app fetches the **Deezer Top 100 World chart**, enriches each track with an AI-generated description (genre, mood, tempo, listening context), indexes everything using semantic embeddings, and lets you have a full conversation about it.
+The app fetches the **Deezer Top 100 World chart**, enriches each track with an AI-generated description (genre, mood, tempo, listening context), indexes everything using semantic embeddings, and lets you have a full conversation about it (adaptable to any Deezer playlist or chart).
 
 ---
 
@@ -135,15 +141,6 @@ Get your free API key at [console.mistral.ai](https://console.mistral.ai)
 python main.py
 ```
 
----
-
-## Requirements
-
-```
-requests
-chromadb
-python-dotenv
-```
 
 ---
 
