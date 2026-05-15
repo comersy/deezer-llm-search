@@ -1,4 +1,4 @@
-# charts-chat
+# deezer-llm-search
 
 > Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI
 
@@ -6,7 +6,7 @@
 
 ## What is this?
 
-**charts-chat** is a conversational AI that lets you explore music charts the way you would talk to a friend who knows everything about music.
+This tool is a conversational AI that lets you explore music charts the way you would talk to a friend who knows everything about music.
 
 Instead of scrolling through a list of 100 songs, just ask:
 
