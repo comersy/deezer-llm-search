@@ -130,7 +130,7 @@ pip install -r requirements.txt
 
 **3. Set your Mistral API key**
 
-Create a  file:
+Create a `.env` file and then add your key inside:
 ```
 MISTRAL_API_KEY=your_key_here
 ```
