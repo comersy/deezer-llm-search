@@ -14,7 +14,7 @@ Instead of scrolling through a list of 100 songs, just ask:
 - "Give me a song to dance to"
 - "I need something calm to focus, not too many lyrics"
 
-The app fetches the **Deezer Top 100 World chart**, enriches each track with an AI-generated description (genre, mood, tempo, listening context), indexes everything using semantic embeddings, and lets you have a full conversation about it.
+The app fetches the **Deezer Top 100 World chart**, enriches each track with an AI-generated description (genre, mood, tempo, listening context), indexes everything using semantic embeddings, and lets you have a full conversation about it (adaptable to any Deezer playlist or chart).
 
 ---
 
@@ -135,15 +135,6 @@ Get your free API key at [console.mistral.ai](https://console.mistral.ai)
 python main.py
 ```
 
----
-
-## Requirements
-
-```
-requests
-chromadb
-python-dotenv
-```
 
 ---
 
