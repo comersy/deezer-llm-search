@@ -1,6 +1,6 @@
 # deezer-llm-search
 
-> Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/f6704206-ca86-4961-b399-a6f91e33dc4c" />
+> Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI 🇫🇷🇫🇷
 
 
 ---
