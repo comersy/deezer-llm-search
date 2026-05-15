@@ -4,7 +4,7 @@ from chromadb.utils import embedding_functions
 COLLECTION_NAME = "tracks"
 
 client = chromadb.Client()
-ef = embedding_functions.DefaultEmbeddingFunction()
+ef = embedding_functions.DefaultEmbeddingFunction() # all-MiniLM-L6-v2
 collection = client.get_or_create_collection(COLLECTION_NAME, embedding_function=ef)
 
 
