@@ -2,6 +2,11 @@
 
 > Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Deezer_logo_2023.png/320px-Deezer_logo_2023.png" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mistral_AI_logo.svg/320px-Mistral_AI_logo.svg.png" height="40"/>
+</p>
 
 ---
 
