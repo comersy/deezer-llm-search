@@ -1,6 +1,6 @@
 # charts-chat
 
-> Ask questions about current music charts in natural language — powered by Deezer API & Mistral AI.
+> Ask questions and recommendations about current music charts in natural language. Powered by Deezer API & Mistral AI
 
 ---
 
